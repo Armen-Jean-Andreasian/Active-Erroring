@@ -1,5 +1,5 @@
 # Active Erroring
-
+![](https://i.ibb.co/PQ2vjGr/img.png)
 Active Erroring is a Python package that provides a simple way to raise custom errors with customizable error names and messages.
 
 ## Installation
@@ -29,6 +29,7 @@ Here's a complete example of using Active Erroring in a Python script.
 
 - Sample:
 ![Demo](https://i.ibb.co/61nDwVh/demo.png)
+
 
 
 
